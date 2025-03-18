@@ -33,28 +33,6 @@ This project demonstrates:
 - **Destination Marketing** – Identify top-rated places for promotion.
 - **Urban Planning & Policy Making** – Optimize tourist management strategies.
 
----
-
-## 📂 Repository Structure
-```
-📁 project-folder
-│-- 📄 README.md (this file!)
-│-- 📂 project_file/ (main project notebook)
-│-- 📄 requirements.txt (Python dependencies)
-```
-
-## 🛠️ How to Run the Project
-### 1️⃣ Install Dependencies
-```
-pip install -r requirements.txt
-```
-### 2️⃣ Run Jupyter Notebook
-```
-jupyter notebook
-```
-### 3️⃣ Explore and Visualize Data
-- Open `project_file/bali_tourism_dashboard.ipynb` to explore **interactive charts & mapping features**.
-
 ## 📬 Contact
 💡 **Developed by:** Chairunnisa Mahadewi Budi Santosa  
 📧 **Email:** chairunnisaambs@gmail.com  
